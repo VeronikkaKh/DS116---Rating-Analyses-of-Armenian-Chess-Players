@@ -1,1 +1,1 @@
-# DS116---Ratings-Analyses-of-Armenian-Chess-Players
+# DS116---Rating-Analyses-of-Armenian-Chess-Players
